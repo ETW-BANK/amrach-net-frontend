@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "amrachnet.web.application.client", "amrachnet.web.application.client\amrachnet.web.application.client.esproj", "{3834CFFF-0707-528E-BBC5-BD1BCAEA19F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amrachnet.Web.Application.Server", "Amrachnet.Web.Application.Server\Amrachnet.Web.Application.Server.csproj", "{F833A333-4B3F-4008-9151-EF40CF541573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3834CFFF-0707-528E-BBC5-BD1BCAEA19F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3834CFFF-0707-528E-BBC5-BD1BCAEA19F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3834CFFF-0707-528E-BBC5-BD1BCAEA19F8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3834CFFF-0707-528E-BBC5-BD1BCAEA19F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3834CFFF-0707-528E-BBC5-BD1BCAEA19F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3834CFFF-0707-528E-BBC5-BD1BCAEA19F8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F833A333-4B3F-4008-9151-EF40CF541573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F833A333-4B3F-4008-9151-EF40CF541573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F833A333-4B3F-4008-9151-EF40CF541573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F833A333-4B3F-4008-9151-EF40CF541573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46F6E943-0709-4BA2-B79D-2668E5C63E76}
+	EndGlobalSection
+EndGlobal
